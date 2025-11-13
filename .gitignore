@@ -4,6 +4,7 @@ src/staticfiles
 *.pyc
 src/logs
 .venv
+venv
 
 .env
 
